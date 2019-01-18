@@ -47,4 +47,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     alt = "Logo"
 
 [social]
-    # github-square = "https://github.com/bcallumcarr"
+    github-square = "https://github.com/bcallumcarr"

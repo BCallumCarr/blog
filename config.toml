@@ -29,6 +29,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     title404 = "Hmmmm. Looks like you're lost. Maybe head back to the home page? :/"
 
     aboutAuthor = "Computational Social Scientist"
+    iconFont = "font-awesome"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"

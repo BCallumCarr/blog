@@ -1,6 +1,6 @@
 baseurl = "/"
-languageCode = "en-us"
-title = "A Hugo website"
+languageCode = "en"
+title = "Brad Carruthers"
 theme = "hugo-theme-cactus-plus"
 googleAnalytics = ""
 disqusShortname = ""
@@ -20,7 +20,15 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://twitter.com/rstudio"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    name = "Brad Carruthers"
+    job = "Computational Social Science"
+    description = "Passionate about spreading knowledge and solving challenges in developing countries."
+
+    github = "bcallumcarr"
+
+    title404 = "Hmmmm. Looks like you're lost. Maybe head back to the home page? :/"
+
+    aboutAuthor = "Computational Social Scientist"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
@@ -37,3 +45,5 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     height = 50
     alt = "Logo"
 
+[social]
+    github-square = "https://github.com/bcallumcarr"

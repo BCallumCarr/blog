@@ -1,0 +1,13 @@
+---
+title: "Setting Up"
+author: "Brad Carruthers"
+date: 2019-01-18
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# First Post!
+
+Yup.

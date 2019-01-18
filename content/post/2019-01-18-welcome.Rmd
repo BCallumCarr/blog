@@ -1,5 +1,5 @@
 ---
-title: "Setting Up"
+title: "Welcome"
 author: "Brad Carruthers"
 date: 2019-01-18
 ---
@@ -8,6 +8,6 @@ date: 2019-01-18
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# First Post!
+# Welcome to my personal website
 
-Yup.
+Yup!

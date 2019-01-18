@@ -8,8 +8,8 @@ features = ["blog", "beautiful", "disqus", "rss", "syntax highlighting", "tags"]
 min_version = 0.20
 
 [author]
-  name = "nodejh"
-  homepage = "https://github.com/nodejh"
+  name = "Brad Carruthers"
+  homepage = "https://github.com/bcallumcarr"
 
 [[original]]
   name = "Cactus"

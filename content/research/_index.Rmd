@@ -1,0 +1,12 @@
+---
+title: "Research"
+output: html_document
+---
+
+Here is some of the research I am currently working on.
+
+***
+
+### MSc Thesis at LSE: Automatic construction of student misconception ontology from online forum data
+
+Have a look [here](/img/my400-assignment-after-feedback.pdf) for a research proposal I had to put together for an MY400 Social Science Research Design course at LSE.

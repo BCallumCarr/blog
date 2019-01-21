@@ -10,3 +10,7 @@ Here is some of the research I am currently working on.
 ### MSc Thesis at LSE: Automatic construction of student misconception ontology from online forum data
 
 Have a look [here](/img/my400-assignment-after-feedback.pdf) for a research proposal I put together for an MY400 Social Science Research Design course at LSE. Please note that it is a bit rough after having incorporated some feedback from [Nick Hoernle](https://nickhoernle.com) - who also incidentally started me out on this specific topic.
+
+### Honours Thesis at Stellenbosch: Teacher job satisfaction and learner performance: An investigation into the 2004 Grade 6 Intermediate Phase Systemic Evaluation
+
+[This](/img/honours-thesis.pdf) is my thesis for my Honours in Economics at Stellenbosch University, South Africa.

@@ -10,4 +10,4 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 ### Welcome to my personal website
 
-You're probably better off heading to my "About" section since I've only recently got this sight up and going!
+You're probably better off heading to my "About" section since I've only recently got this site up and going!

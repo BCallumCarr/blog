@@ -1,0 +1,17 @@
+---
+title: Annoying the StackOverflow Community (for research)
+author: Brad Carruthers
+date: '2019-03-08'
+slug: annoying-the-stackoverflow-community-for-research
+categories: []
+tags: []
+---
+
+# So I finally asked my first question on StackExchange...
+
+Needless to say, it did not go well:
+
+```{r echo=FALSE, out.width='40%', fig.align='center'}
+knitr::include_graphics("/img/bad-question.png")
+```
+

@@ -11,6 +11,6 @@ I started this blog in January 2019, so it most likely is still a little barren.
 
 I have experience as an investment analyst, an Economics lecturer ([Stellenbosch University](http://www.sun.ac.za/english) in South Africa) and a Mathematics teaching assistant (also Stellenbosch University). Recently, I've worked as both an Academic Manager and Data Science teaching assistant at [iXperience](http://ixperience.co.za), an innovative EdTech company based in Cape Town, South Africa.
 
-I am passionate about helping solve challenges in developing countries and globally - inequality, chronic poverty, [online privacy](https://www.privacy.io), and the implications of the [fourth industrial revolution](https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond) are currently at the top of my list.
+I am passionate about helping solve challenges in developing countries and globally - inequality, chronic poverty, [online privacy](https://www.privacytools.io), and the implications of the [fourth industrial revolution](https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond) are currently at the top of my list.
 
 Feel free to pop a mail to my school address: [b{dot}c{dot}carruthers{at}lse{dot}ac{dot}uk](mailto:b.c.carruthers@lse.ac.uk)

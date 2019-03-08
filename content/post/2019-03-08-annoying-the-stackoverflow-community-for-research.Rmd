@@ -7,11 +7,21 @@ categories: []
 tags: []
 ---
 
-# So I finally asked my first question on StackExchange...
+# So I finally asked my first question on StackOverflow
 
-Needless to say, it did not go well:
+Judging by the community's, it did not go well:
 
 ```{r echo=FALSE, out.width='100%', fig.align='center'}
 knitr::include_graphics("/img/bad-question.png")
 ```
+
+Hopefully you might guess that, although it really was me who asked this (using an anonymous StackOverflow account), I actually intended for it to be extremely broad, under-researched and less-than-perfectly-legible - i.e. a poor question. I've been thinking quite a bit about questions lately: what makes them "good", what makes them "bad" and how to assist users in asking better ones in online communities such as [StackExchange sites](https://stackexchange.com) or Massive Open Online Courses.
+
+I've always had the opinion that, at least in a classroom and educational setting, there is really no such thing as a silly question. Questions from students to teacher in any environment signify some level of engagement from the students' side, no matter how broad or relevant. Online though, the focus tends to be more on the retrieval of answers and a "two-sided market" where someone needing a resource (i.e. expert advice) is matched up with someone offering this resource.
+
+I think few online communities demonstrate this two-sided market illustration more so than [StackOverflow](https://stackoverflow.com), which formally describes itself as a "Q&A for professional and enthusiast programmers" but inherently serves more as a global debugging platform where countless computer coding errors and obstacles are queried on a daily basis (17 million questions and counting). 
+
+On platforms where these expert resources may be scarce (MOOC forums are a good example), it might help if there was a system to advise question-askers on how likely their question will be answered productively, espeically when the community (and the asker) values concrete answers delivered hastily rather than broader discussions and the asker is querying a specific problem rather than looking to enhance their knowledge on a subject substantially. Interesting topic for a MSc thesis wouldn't you say?
+
+<!--I think we could all brainstorm the attributes of a "good" question - relevance, narrow enough-->
 

@@ -5,11 +5,25 @@ output: html_document
 
 Here is some of the research I am currently working on.
 
-***
+### MSc Thesis LSE: Nudging Online Users Into Asking Better Questions
 
-### MSc Thesis at LSE: Automatic construction of student misconception ontology from online forum data
+So after bouncing around quite a bit, I've settled on a topic for my thesis at LSE. I thought it would be cool if there was a way to help users identify whether their questions online have a high or low chance of being answered in a constructive way. The various [StackExchange](https://stackexchange.com/sites#questions) fora provide a neat set of large datasets (see [here](https://archive.org/download/stackexchange) for the data dump) to play with hypotheses related to mine, and given data on historial questions and answers like the StackExchane datasets, it doesn't appear too hard to predict some kind of "quality" inherent in questions, as [Ravi *et al.* (2014)](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/viewFile/8080/8143) show.
+
+Ravi *et al.* (2014) basically use only the text of StackOverflow questions to predict upvote scores within the StackOverflow community. Their fancy, suped up model (which is classification regression on Latend Dirichlet Allocation-steroids) manages 74% classification accuracy, beating the 60% accuracy if only page views are used.
+
+For my research question however, my current thoughts are that the upvote score shouldn't be the focus of prediction. Since my aim is to inform users of whether their question will illicit a productive response, I think that the number of answers/interactions and the sentiment of those answers are much more pertinent to the task of nudging online users to asking clearer questions. And speaking of needing to ask clearer questions, you might want to have a look at the [first ever question I asked on StackExchange](https://bradcarruthers.netlify.com/2019/03/08/annoying-the-stackoverflow-community-for-research/), for research purposes of course!
+
+
+
+
+
+---
+
+### MSc Thesis Research Proposal at LSE: Automatic construction of student misconception ontology from online forum data
 
 Have a look [here](/img/my400-assignment-after-feedback.pdf) for a research proposal I put together for an MY400 Social Science Research Design course at LSE. Please note that it is a bit rough after having incorporated some feedback from [Nick Hoernle](https://nickhoernle.com) - who also incidentally started me out on this specific topic.
+
+---
 
 ### Honours Thesis at Stellenbosch: Teacher job satisfaction and learner performance: An investigation into the 2004 Grade 6 Intermediate Phase Systemic Evaluation
 

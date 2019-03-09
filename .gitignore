@@ -4,3 +4,4 @@ public/
 *.Rproj.user
 blogdown-commands.Rmd
 *.RHistory
+.Rproj.user

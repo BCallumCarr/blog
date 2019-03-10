@@ -11,7 +11,7 @@ tags: []
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-### I'll start by showing you what's on my laptop on phone home screens:
+### I'll start by showing you what's on my laptop and phone home screens:
 
 ```{r echo=FALSE, out.width='100%', fig.align='center'}
 knitr::include_graphics("/img/mac-desktop.png")
@@ -29,26 +29,28 @@ knitr::include_graphics("/img/phone-screen.jpeg")
 
 I really do think that information overload is becoming an increasingly ubiqutous and burdensome problem in the developed world, and you'll see that the lack of information/clutter/applications on both screens of my two devices illustrate necessity rather than convenience. I do know you're itching to get to the Super User-y lifehacks, so the last thing I'll say about this is how my aim has been to eliminate [digital distractions](https://highexistence.com/internet-attention-economy/) and increase focus in my digital life.
 
-So, onto Super User lifehacks. One reason I can afford to have nothing on my laptop's desktop most of the time is how I have learned to move around computers (irrespective of whether it's a Windows, Apple or Linux operating system). To sum this up in pictures, I have basically made these two things my mortal enemies:
+So, onto Super User lifehacks. One reason I can afford to have nothing on my laptop desktop most of the time is because of how I now move around a computer (irrespective of whether it's a Windows, Apple or Linux operating system). To sum this up in pictures, I have basically made these two things my mortal enemies:
 
-```{r echo=FALSE, out.width='45%', fig.align='center'}
-knitr::include_graphics("/img/mac-trackpad.jpg")
-knitr::include_graphics("/img/pc-mouse.jpg")
-```
+<img src="/img/mac-trackpad.jpg" alt="mac trackpad computer lifehack ninja" width="360">
+<img src="/img/pc-mouse.jpg" alt="computer mouse lifehack ninja" width="245">
 
-My goal has been to increase my repertoire of keyboard shortcuts (think copy-pasting with cmd-c/ctrl-c), and no doubt these small tricks continue to save me countless hours a month given the amount of time I spend on my laptop and how far I've improved my moving around a computer. Let's start out slowly - I'll give you the Mac shortcuts with Windows equivalents in brackets as far as possible:
+My goal has been to increase my repertoire of keyboard shortcuts (think copy-pasting with cmd-c/ctrl-c), and no doubt these small tricks continue to save me countless hours a month given the amount of time I spend on my laptop and how far I've come in moving around a computer. Let's start out slowly - I'll be giving you the Mac shortcuts with Windows equivalents in brackets as far as possible:
 
-* `cmd`-`tab` (or `alt`-`tab` on Windows) will literally change your life. Seriously.
+* `cmd`-`tab` (or `alt`-`tab` on Windows) will literally change your life. Seriously. Try it out now.
 
-Gone will the days be where you spend what feels like 4 hours moving through those little icons at the bottom of your screen, trying to find the last Excel sheet you were working on. Holding the `cmd` (or `alt` on Windows) key and tapping the `tab` key gives you the lightning fast capability of cycling through the open applications on your computer. Cycling through **everything** you have open on a Mac is a bit more nuanced (cycling through multiple windows in say Finder requires you to press `cmd`-` ` `), but if there is one thing you would want to nail, it is this. 
+Gone will the days be where you spend what feels like 4 hours moving through those little icons at the bottom of your screen, trying to find the last Excel sheet you were working on. Holding the `cmd` (or `alt` on Windows) key and tapping the `tab` key gives you the lightning fast capability of cycling through the open applications on your computer. Cycling through **everything** you have open on a Mac is a bit more nuanced (to go through multiple windows in say Finder requires you to press `cmd`-` ` `), but if there is one thing you would want to nail, it is this. 
 
 Combining the above trick with this:
 
 * `cmd`-`space` (`windows` key on Windows) 
 
-and you instantly become a super user demi-god. `cmd`-`space` on Mac opens Spotlight Search which can literally be used to do anything on a Mac, from opening applications to searching your entire computer for **any** file (believe it, it's true). On a Windows system hitting the `windows` key opens up the start menu where you are also able to (somewhat more slowly) search for files or open programs.
+and you instantly become a super user demi-god. `cmd`-`space` on Mac opens Spotlight Search which can literally be used to do anything on a Mac, from opening applications to searching your entire computer for **any** file (believe me, I've tried it). On a Windows system, hitting the `windows` key opens up the start menu where you are also able to search for files or open programs. The `windows` key is the one in the middle in case you had no idea:
 
-Just think about what you can now already do with these two nuggets - you don't have to spend decades wandering through Documents folders to find that picture your gran has been rashing you for months, and you don't have to spend centuries double clicking icons left, right and center haphazardly around your computer. You can now boast beautiful, empty desktop screens like mine above, drunk on the power that you can now navigate around your computer without even touching the mouse or trackpad.
+```{r echo=FALSE, out.width='40%', fig.align='center'}
+knitr::include_graphics("/img/windows-key.jpg")
+```
+
+Just think about what you can now already do with these two nuggets - you don't have to spend decades wandering through Documents folders to find that picture your gran has been rashing you for months, and you don't have to spend centuries double clicking icons left, right and centre haphazardly around your computer. You can now boast beautiful, empty desktop screens like mine above, drunk on the power that you can navigate around your computer without even touching that silly mouse or trackpad.
 
 You can also give yourself a bit of extra space on your screen (extra nice for 13" screens) by hiding icon bars and cheekily having only 6-7 icons in Mac docks:
 
@@ -59,16 +61,18 @@ knitr::include_graphics("/img/mac-hidden-dock.png")
 <font size="-1"><center>Above: Beautiful</center></font>
 \n
 
-So having now implemented these two small tricks, you have saved yourself plenty of time whenever you climb onto a computer. The next step is to look at the applications/programs you use the most everyday, and begin investing some time in avoiding trackpads/mice to save yourself even more. Here are the shortcuts that correspond to what I use most.
+So having now implemented these two small tricks, you have saved yourself plenty of time whenever you climb onto a computer. The next step is to look at the applications/programs you use the most everyday, and begin investing some time in avoiding trackpads/mice to increase those savings even more. Here are the shortcuts that correspond to what I use most and trust me, they are all worth it.
 
 <u>Internet Browser (and basically any other application on your computer worth it's salt)</u>
 
 * `cmd`-`t` (`ctrl`-`t`) opens a new tab
-* `cmd`-`shift`-`t` (`ctrl`-`t`) reopens the last tab you closed (you'll see the friendly shift button coming up whenever you want to reverse something)
+* `cmd`-`w` (`ctrl`-`w`) closes a tab/window
+* `cmd`-`shift`-`t` (`ctrl`-`t`) reopens the last tab you closed (you'll see the friendly `shift` button coming up whenever you want to reverse something)
 * `cmd`-`1` (`ctrl`-`1`) swaps to your **first** open tab
 * `cmd`-`9` (`ctrl`-`9`) swaps to your **last** open tab
-* `cmd`-`shift`-`[` and `cmd`-`shift`-`]` (`ctrl`-`tab` and `ctrl`-`shift`-`tab`) swaps to left and right tabs respectively. This is an interesting one because these specific shortcuts tend to be different across operating systems and across internet browsers (and there are also a couple different ways to do this). These are specifically my preferred shortcuts in Mac/Windows
-* `cmd`-`l` (`ctrl`-`l`) takes you to the search bar which becomes extremely handy any time you want to move off the current page and have some idea of the url you want to go to)
+* `cmd`-`shift`-`]` and `cmd`-`shift`-`[` (`ctrl`-`tab` and `ctrl`-`shift`-`tab`) swaps to right and left tabs respectively. This shortcut is an interesting one because it tends to be different across operating systems and across internet browsers (and there are also a couple of different shortcuts that do this). What I've listed here are my preferred shortcuts in Mac/Windows
+* `cmd`-`l` (`ctrl`-`l`) takes you to the browser search bar, which becomes extremely handy any time you want to move off the current page and have some idea of the url you want to go to
+* `cmd`-`r` (`ctrl`-`r`) reloads the page nice and quickly
 * `cmd`-`shift`-`n` (`ctrl`-`shift`-`n`) or `cmd`-`shift`-`p` in Firefox if you want to open an incognito tab, which you may think of doing more regularly after [taking back some control of your digital privacy](https://bradcarruthers.netlify.com/2019/03/09/your-digital-privacy-matters).
 
 <u>Mac Finder or Windows File Explorer</u>
@@ -83,9 +87,13 @@ Here the differences between Mac and Windows get pretty niggly, but again if you
 
 * `cmd`-`f` (`ctrl`-`f`) to change the way you find text and keywords on webpages/pdfs etc.
 * `alt`-`left/right arrowkeys` (`ctrl`-`left/right arrowkeys`) to change the way you navigate while typing text **anywhere** on your computer. PS: Did you know you can create a `delete` key on Mac? Just use `fn`-`backspace`. You can also skip to the beginning and end of lines of text using `cmd`-`left arrow` and `cmd`-`right arrow` (essentially the same as `home` and `end` keys on Windows).
+* `cmd`-`s` (`ctrl`-`s`) to save any document you are working on (adding a `shift` in the middle is sometimes the shortcut for 'save as')
+* `cmd`-`q` (`alt`-`F4`) closes the current program you're working on. Note that the Mac shortcut is stronger here i.e. it will close multiple windows of an application whereas `alt`-`F4` on Windows just closes the current application window you have open.
 
 
-Well I hope this has given a taste of the awesomeness you could embody while whizzing around your laptop, impressing your work colleagues with your 150% increase in productivity and time-saving skills. Again, let me stress that keyboard shortcuts tend to carry across programs and applications (and operating systems). There are so many more that are out there that I haven't mentioned here, so start Googling (or better [DuckDuckGo-ing](https://duckduckgo.com)) more shortcuts and you will be well on your way to becoming a Super User ninja.
+I haven't even begun to look at more specific shortcuts like [Gmail shortcuts that can save you hours](https://blog.hubspot.com/sales/gmail-keyboard-shortcuts) or [creating a shortcut on Macs to eliminate right clicking](https://beebom.com/how-right-click-using-keyboard-mac/), but I hope this has given you a taste of the awesomeness you could embody while whizzing around your laptop, impressing your work colleagues with 150% increases in productivity and time-saving skills.
+
+Again, I want to stress that keyboard shortcuts tend to carry across applications (and operating systems), so each one you learn can have multiple benefits. There are so many more out there that I haven't mentioned, so start Googling (or better [DuckDuckGo-ing](https://duckduckgo.com)) as many shortcuts that will fit in your brain and you will be well on your way to becoming a Super User ninja.
 
 <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="computer lifehack ninja">
 

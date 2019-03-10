@@ -5,3 +5,4 @@ public/
 blogdown-commands.Rmd
 *.RHistory
 .Rproj.user
+themes/hugo-theme-cactus-plus/static/images/alternative/*

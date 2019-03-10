@@ -27,7 +27,7 @@ knitr::include_graphics("/img/phone-screen.jpeg")
 <font size="-1"><center>From top-left to bottom-right: Phonograph (for music locally on the device), InsightTimer, Spotify, stock Phone app, Signal (messaging app), Firefox internet browser, Shazam (music identification) and stock Clock app</center></font>
 \n
 
-I really do think that information overload is becoming an increasingly ubiqutous and burdensome problem in the developed world, and you'll see that the lack of information/clutter/applications on both screens of my two devices illustrate necessity rather than convenience. I do know you're itching to get to the Super User-y lifehacks, so the last thing I'll say about this is how my aim has been to eliminate [digital distractions](https://highexistence.com/internet-attention-economy/) and increase focus in my digital life.
+I really do think that information overload is becoming an increasingly ubiqutous and burdensome problem in the developed world, and you'll see that the lack of information/clutter/applications on both screens of my two devices illustrate necessity rather than convenience. I do know you're itching to get to the Super User-y lifehacks, so the last thing I'll say about this is how my aim has been to eliminate <a href="https://highexistence.com/internet-attention-economy/" target="_blank">digital distractions</a> and increase focus in my digital life.
 
 So, onto Super User lifehacks. One reason I can afford to have nothing on my laptop desktop most of the time is because of how I now move around a computer (irrespective of whether it's a Windows, Apple or Linux operating system). To sum this up in pictures, I have basically made these two things my mortal enemies:
 
@@ -50,7 +50,7 @@ and you instantly become a super user demi-god. `cmd`-`space` on Mac opens Spotl
 knitr::include_graphics("/img/windows-key.jpg")
 ```
 
-Just think about what you can now already do with these two nuggets - you don't have to spend decades wandering through Documents folders to find that picture your gran has been rashing you for months, and you don't have to spend centuries double clicking icons left, right and centre haphazardly around your computer. You can now boast beautiful, empty desktop screens like mine above, drunk on the power that you can navigate around your computer without even touching that silly mouse or trackpad.
+Just think about what you can now already do with these two nuggets - you don't have to spend decades wandering through Documents folders to find that picture your gran has been hassling you for months, and you don't have to spend centuries double clicking icons left, right and centre haphazardly around your computer. You can now boast beautiful, empty desktop screens like mine above, drunk on the power that you can navigate around your computer without even touching that silly mouse or trackpad.
 
 You can also give yourself a bit of extra space on your screen (extra nice for 13" screens) by hiding icon bars and cheekily having only 6-7 icons in Mac docks:
 
@@ -73,7 +73,7 @@ So having now implemented these two small tricks, you have saved yourself plenty
 * `cmd`-`shift`-`]` and `cmd`-`shift`-`[` (`ctrl`-`tab` and `ctrl`-`shift`-`tab`) swaps to right and left tabs respectively. This shortcut is an interesting one because it tends to be different across operating systems and across internet browsers (and there are also a couple of different shortcuts that do this). What I've listed here are my preferred shortcuts in Mac/Windows
 * `cmd`-`l` (`ctrl`-`l`) takes you to the browser search bar, which becomes extremely handy any time you want to move off the current page and have some idea of the url you want to go to
 * `cmd`-`r` (`ctrl`-`r`) reloads the page nice and quickly
-* `cmd`-`shift`-`n` (`ctrl`-`shift`-`n`) or `cmd`-`shift`-`p` in Firefox if you want to open an incognito tab, which you may think of doing more regularly after [taking back some control of your digital privacy](https://bradcarruthers.netlify.com/2019/03/09/your-digital-privacy-matters).
+* `cmd`-`shift`-`n` (`ctrl`-`shift`-`n`) or `cmd`-`shift`-`p` in Firefox if you want to open an incognito tab, which you may think of doing more regularly after <a href="https://bradcarruthers.netlify.com/2019/03/10/your-digital-privacy-matters" target="_blank">taking back some control of your digital privacy</a>.
 
 <u>Mac Finder or Windows File Explorer</u>
 
@@ -91,9 +91,9 @@ Here the differences between Mac and Windows get pretty niggly, but again if you
 * `cmd`-`q` (`alt`-`F4`) closes the current program you're working on. Note that the Mac shortcut is stronger here i.e. it will close multiple windows of an application whereas `alt`-`F4` on Windows just closes the current application window you have open.
 
 
-I haven't even begun to look at more specific shortcuts like [Gmail shortcuts that can save you hours](https://blog.hubspot.com/sales/gmail-keyboard-shortcuts) or [creating a shortcut on Macs to eliminate right clicking](https://beebom.com/how-right-click-using-keyboard-mac/), but I hope this has given you a taste of the awesomeness you could embody while whizzing around your laptop, impressing your work colleagues with 150% increases in productivity and time-saving skills.
+I haven't even begun to look at more specific shortcuts like <a href="https://blog.hubspot.com/sales/gmail-keyboard-shortcuts" target="_blank">Gmail shortcuts that can save you hours</a> or <a href="https://beebom.com/how-right-click-using-keyboard-mac/" target="_blank">creating a shortcut on Macs to eliminate right clicking</a>, but I hope this has given you a taste of the awesomeness you could embody while whizzing around your laptop, impressing your work colleagues with 150% increases in productivity and time-saving skills.
 
-Again, I want to stress that keyboard shortcuts tend to carry across applications (and operating systems), so each one you learn can have multiple benefits. There are so many more out there that I haven't mentioned, so start Googling (or better [DuckDuckGo-ing](https://duckduckgo.com)) as many shortcuts that will fit in your brain and you will be well on your way to becoming a Super User ninja.
+Again, I want to stress that keyboard shortcuts tend to carry across applications (and operating systems), so each one you learn can have multiple benefits. There are so many more out there that I haven't mentioned, so start Googling (or better <a href="https://duckduckgo.com" target="_blank">DuckDuckGo-ing</a>] as many shortcuts that will fit in your brain and you will be well on your way to becoming a Super User ninja.
 
 <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="computer lifehack ninja">
 

@@ -17,4 +17,4 @@ I started this blog-type project in January 2019 to jot down my thoughts and cur
 
 * [Experimenting with StackOverflow](https://bradcarruthers.netlify.com/2019/03/08/annoying-the-stackoverflow-community-for-research/)
 * [Becoming a super user](https://bradcarruthers.netlify.com/2019/03/09/become-a-super-user)
-* [Taking control of your digital privacy](https://bradcarruthers.netlify.com/2019/03/10/your-digital-privacy-matters/).
+* [Taking control of your digital privacy](https://bradcarruthers.netlify.com/2019/03/10/your-digital-privacy-matters/)

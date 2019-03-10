@@ -19,11 +19,11 @@ knitr::include_graphics("/img/bad-question.png")
 
 ---
 
-Hopefully you might guess that, although it really was me who asked this (using an anonymous StackOverflow account), I actually intended for it to be extremely broad, under-researched and less-than-perfectly-legible - i.e. a poor question. I've been thinking quite a bit about questions lately: what makes them "good", what makes them "bad" and how to assist users in asking better ones in online communities such as [StackExchange sites](https://stackexchange.com) or Massive Open Online Courses.
+Hopefully you might guess that, although it really was me who asked this (using an anonymous StackOverflow account), I actually intended for it to be extremely broad, under-researched and less-than-perfectly-legible - i.e. a poor question. I've been thinking quite a bit about questions lately: what makes them "good", what makes them "bad" and how to assist users in asking better ones in online communities such as <a href="https://stackexchange.com/sites#questions" target="_blank">StackExchange sites</a> or Massive Open Online Courses.
 
 I've always had the opinion that, at least in a classroom and educational setting, there is really no such thing as a silly question. Questions from students to teacher in any environment signify some level of engagement from the students' side, no matter how broad or relevant. Online though, the focus tends to be more on the brute-force retrieval of answers where the forum serves as a "two-sided market" with someone needing a resource (i.e. expert advice) being matched up with someone offering this resource.
 
-I think few online communities demonstrate this illustration more so than [StackOverflow](https://stackoverflow.com), which formally describes itself as a "Q&A for professional and enthusiast programmers" but inherently serves more as a global debugging platform. Countless computer coding errors and niggly programming issues are queried on a daily basis (17 million questions and counting), and this has evidently led to the community trying to filter out "bad" questions:
+I think few online communities demonstrate this illustration more so than <a href="https://stackoverflow.com" target="_blank>StackOverflow</a>, which formally describes itself as a "Q&A for professional and enthusiast programmers" but inherently serves more as a global debugging platform. Countless computer coding errors and niggly programming issues are queried on a daily basis (17 million questions and counting), and this has evidently led to the community trying to filter out "bad" questions:
 
 
 ```{r echo=FALSE, out.width='100%', fig.align='center'}

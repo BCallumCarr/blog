@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-### It really is time to be concerned about how you are being data-mined
+### It really is time to be concerned about how you are being data-mined...
 
 (this post is a work in progress)
 

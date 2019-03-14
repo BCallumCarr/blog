@@ -93,7 +93,7 @@ Here the differences between Mac and Windows get pretty niggly, but again if you
 
 I haven't even begun to look at more specific shortcuts like <a href="https://blog.hubspot.com/sales/gmail-keyboard-shortcuts" target="_blank">Gmail shortcuts that can save you hours</a> or <a href="https://beebom.com/how-right-click-using-keyboard-mac/" target="_blank">creating a shortcut on Macs to eliminate right clicking</a>, but I hope this has given you a taste of the awesomeness you could embody while whizzing around your laptop, impressing your work colleagues with 150% increases in productivity and time-saving skills.
 
-Again, I want to stress that keyboard shortcuts tend to carry across applications (and operating systems), so each one you learn can have multiple benefits. There are so many more out there that I haven't mentioned, so start Googling (or better <a href="https://duckduckgo.com" target="_blank">DuckDuckGo-ing</a>] as many shortcuts that will fit in your brain and you will be well on your way to becoming a Super User ninja.
+Again, I want to stress that keyboard shortcuts tend to carry across applications (and operating systems), so each one you learn can have multiple benefits. There are so many more out there that I haven't mentioned, so start Googling (or better <a href="https://duckduckgo.com" target="_blank">DuckDuckGo-ing</a>) as many shortcuts that will fit in your brain and you will be well on your way to becoming a Super User ninja.
 
 <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="computer lifehack ninja">
 

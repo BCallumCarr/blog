@@ -7,4 +7,8 @@ categories: []
 tags: []
 ---
 
+<!--Some thoughts: You need to add-value in the world to receive value-->
+
 (this post is a work in progress)
+
+

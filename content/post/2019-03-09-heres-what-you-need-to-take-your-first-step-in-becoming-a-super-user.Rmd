@@ -11,7 +11,7 @@ tags: []
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-### I'll start by showing you what's on my laptop and phone home screens:
+### Let me start by showing off what's on my laptop and phone home screens:
 
 ```{r echo=FALSE, out.width='100%', fig.align='center'}
 knitr::include_graphics("/img/mac-desktop.png")

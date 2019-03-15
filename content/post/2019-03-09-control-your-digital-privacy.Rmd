@@ -9,7 +9,7 @@ tags: []
 
 ### It really is time to be concerned about how you are being data-mined...
 
-This is all I have for you right now: <a href="www.privacytools.io" target="_blank">Some tools you might want to have a look at</a>.
+This is all I have for you right now: <a href="https://www.privacytools.io" target="_blank">Some tools you might want to have a look at</a>.
 
 (this post is a work in progress)
 

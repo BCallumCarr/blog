@@ -9,11 +9,11 @@ My name is Brad and I'm currently completing an <a href="http://www.lse.ac.uk/st
 
 My plan is to populate this blog with things that I'm currently doing and that I'm interested in. Speaking of things I'm interested in: offline I spend my time surfing, teaching, public speaking, <a href="http://dnd.wizards.com" target="blank_">playing Dungeons and Dragons</a> and travelling. 
 
-I have experience as an <a href="http://www.securewealth.co.za" target="_blank">investment analyst</a>, an Economics lecturer (<a href="http://www.sun.ac.za/english" target="_blank">Stellenbosch University</a> in South Africa) and recently I was an Academic Manager and taught Data Science at <a href="http://ixperience.co.za" target="_blank">iXperience</a>, an innovative EdTech company based in Cape Town.
+I have experience as an <a href="http://www.securewealth.co.za" target="_blank">investment analyst</a>, an Economics lecturer (at <a href="http://www.sun.ac.za/english" target="_blank">Stellenbosch University</a> in South Africa) and recently I was an Academic Manager and taught Data Science at <a href="http://ixperience.co.za" target="_blank">iXperience</a>, an innovative EdTech company based in Cape Town.
 
-I believe that competitive, conscious <a href="https://www.consciouscapitalism.org" target="_blank">capitalism</a> is the key to addressing challenges in developing countries and around the world. I'm passionate about education, <a href="https://www.privacytools.io" target="_blank">digital privacy</a> and the implications of the <a href="https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond" target="_blank">fourth industrial revolution</a>. You can use the following email address to get a hold of me: [b{dot}c{dot}carruthers{at}lse{dot}ac{dot}uk](mailto:b.c.carruthers@lse.ac.uk). 
+I believe that competitive, <a href="https://www.investopedia.com/terms/c/conscious-capitalism.asp" target="_blank">conscious capitalism</a> is the key to addressing challenges in developing countries and around the world. I'm passionate about education, <a href="https://www.privacytools.io" target="_blank">digital privacy</a> and the implications of the <a href="https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond" target="_blank">fourth industrial revolution</a>. You can use the following email address to get a hold of me: [b{dot}c{dot}carruthers{at}lse{dot}ac{dot}uk](mailto:b.c.carruthers@lse.ac.uk). 
 
-Last but definitely not least, I thank my wife Bronwyn for her input on all that I write here, and for her consistent support and patience while I pursue my passions.
+Last but definitely not least, I must thank Bronwyn, my wife, for her input on all that I write here, and for her consistent support and patience while I chase my dreams.
 
 ```{r echo=FALSE, out.width='85%', fig.align='center'}
 knitr::include_graphics("/img/passion.jpg")

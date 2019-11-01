@@ -5,7 +5,7 @@ output: html_document
 
 Welcome to my personal website!
 
-My name is Brad and I'm currently completing an <a href="http://www.lse.ac.uk/study-at-lse/Graduate/Degree-programmes-2019/MSc-Statistics-Research" target="_blank">MSc Statistics (Research)</a> degree at the London School of Economics and Political Science. Here is my <a href="/img/bcarruthers-cv-21-09-2019.pdf" target="_blank">CV</a>, my <a href="https://www.linkedin.com/in/brad-carruthers-7b737190/" target="_blank">LinkedIn profile</a> and a link to what I've been doing on <a href="https://github.com/BCallumCarr" target="_blank">GitHub</a>.
+My name is Brad and I'll shortly be graduating my <a href="http://www.lse.ac.uk/study-at-lse/Graduate/Degree-programmes-2019/MSc-Statistics-Research" target="_blank">MSc Statistics (Research)</a> degree at the London School of Economics and Political Science. Here is my <a href="/img/bcarruthers-cv-21-09-2019.pdf" target="_blank">CV</a>, my <a href="https://www.linkedin.com/in/brad-carruthers-7b737190/" target="_blank">LinkedIn profile</a> and a link to what I've been doing on <a href="https://github.com/BCallumCarr" target="_blank">GitHub</a>.
 
 My plan is to populate this blog with things that I'm currently doing and that I'm interested in. Speaking of things I'm interested in: offline I spend my time surfing, teaching, public speaking, <a href="http://dnd.wizards.com" target="blank_">playing Dungeons and Dragons</a> and travelling. 
 

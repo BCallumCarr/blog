@@ -12,17 +12,7 @@ So after bouncing around quite a bit, I've settled on a topic for my thesis at L
 
 Ravi *et al.* (2014) basically use the text of StackOverflow questions to predict their score (upvotes minus downvotes) within the StackOverflow community. Their fancy, suped up model (which is classification regression on Latent Dirichlet Allocation-steroids) manages 72% classification accuracy, beating the 60% accuracy if only page-views (i.e. popularity) are used for prediction.
 
-Since my aim is to inform users of whether their question will illicit a productive response from a community, I am considering other response variables like the number of edits a question undergoes and the sentiment of comments/answers. And speaking of productive responses to clearer questions, you might want to have a look at the <a href="https://bradcarruthers.netlify.com/2019/03/08/annoying-the-stackoverflow-community-for-research/" target="_blank">first ever question I asked on StackExchange</a>, for research purposes of course...
-
-
-
-
-
----
-
-### MSc Thesis Research Proposal at LSE: Automatic construction of student misconception ontology from online forum data
-
-Have a look <a href="/img/my400-assignment-after-feedback.pdf" target="_blank">here</a> for a research proposal I put together for an MY400 Social Science Research Design course at LSE. Please note that it is a bit rough after having incorporated some feedback from <a href="https://nickhoernle.com" target="_blank">Nick Hoernle</a> - who also incidentally started me out on this specific topic.
+Since my aim is to inform users of whether their question will illicit a productive response from a community, I am considering other response variables like the number of edits a question undergoes and the sentiment of comments/answers...
 
 ---
 

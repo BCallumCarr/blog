@@ -18,8 +18,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
     name = "Brad Carruthers"
-    job = "Computational Social Science"
-    description = "Passionate about spreading knowledge and solving problems."
+    job = "Data Engineer"
+    #description = "Passionate about spreading knowledge and solving problems."
 
     github = "bcallumcarr"
 

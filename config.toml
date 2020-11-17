@@ -12,20 +12,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "About"
     url = "/about/"
-[[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/bcallumCarr"
 
 [params]
     name = "Brad Carruthers"
-    job = "Data Engineer"
+    # job = "Data Engineer"
     #description = "Passionate about spreading knowledge and solving problems."
 
     github = "bcallumcarr"
 
     title404 = "Hmmmm. Looks like you're lost. Maybe head back to the home page? :/"
 
-    aboutAuthor = "Computational Social Scientist"
+    # aboutAuthor = "Computational Social Scientist"
     iconFont = "font-awesome"
 
     # options for highlight.js (version, additional languages, and theme)

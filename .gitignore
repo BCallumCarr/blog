@@ -7,4 +7,5 @@ blogdown-commands.Rmd
 .Rproj.user
 themes/hugo-theme-cactus-plus/static/images/alternative/*
 
+.hidden
 hide-*.*

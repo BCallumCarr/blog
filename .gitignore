@@ -9,3 +9,4 @@ themes/hugo-theme-cactus-plus/static/images/alternative/*
 
 .hidden
 hide-*.*
+hide-*
